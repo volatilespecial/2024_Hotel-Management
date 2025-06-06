@@ -1,4 +1,4 @@
-# Système de gestion des réservations d'un hôtel
+# Système de gestion des réservations d'un hôtel - INCOMPLET
 
 ## Crédits
 
